@@ -16,5 +16,5 @@ A sleek mini project built using **HTML**, **CSS**, **JavaScript**, and **Bootst
 
 ## 🔗 Live Preview
 
-👉 **View Project**: [DayKnight Live Preview](https://htmlpreview.github.io/?https://github.com/sohom09/DayKnight/blob/main/index.html)
+👉 **View Project**: [DayKnight Live Preview](https://htmlpreview.github.io/?https://github.com/sohom09/DayNight/blob/main/index.html)
 
